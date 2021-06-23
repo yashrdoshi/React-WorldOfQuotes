@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-WorldOfQuotes/static/css/main.b2e0c3f3.chunk.css",
-    "main.js": "/React-WorldOfQuotes/static/js/main.dda684a7.chunk.js",
-    "main.js.map": "/React-WorldOfQuotes/static/js/main.dda684a7.chunk.js.map",
-    "runtime-main.js": "/React-WorldOfQuotes/static/js/runtime-main.520f9593.js",
-    "runtime-main.js.map": "/React-WorldOfQuotes/static/js/runtime-main.520f9593.js.map",
-    "static/js/2.fdd10518.chunk.js": "/React-WorldOfQuotes/static/js/2.fdd10518.chunk.js",
-    "static/js/2.fdd10518.chunk.js.map": "/React-WorldOfQuotes/static/js/2.fdd10518.chunk.js.map",
-    "static/js/3.69c56dad.chunk.js": "/React-WorldOfQuotes/static/js/3.69c56dad.chunk.js",
-    "static/js/3.69c56dad.chunk.js.map": "/React-WorldOfQuotes/static/js/3.69c56dad.chunk.js.map",
-    "index.html": "/React-WorldOfQuotes/index.html",
-    "static/css/main.b2e0c3f3.chunk.css.map": "/React-WorldOfQuotes/static/css/main.b2e0c3f3.chunk.css.map",
-    "static/js/2.fdd10518.chunk.js.LICENSE.txt": "/React-WorldOfQuotes/static/js/2.fdd10518.chunk.js.LICENSE.txt",
-    "static/media/pokeball.05e5662d.png": "/React-WorldOfQuotes/static/media/pokeball.05e5662d.png"
+    "main.css": "/poketimes/static/css/main.b2e0c3f3.chunk.css",
+    "main.js": "/poketimes/static/js/main.dda684a7.chunk.js",
+    "main.js.map": "/poketimes/static/js/main.dda684a7.chunk.js.map",
+    "runtime-main.js": "/poketimes/static/js/runtime-main.a179cd75.js",
+    "runtime-main.js.map": "/poketimes/static/js/runtime-main.a179cd75.js.map",
+    "static/js/2.fdd10518.chunk.js": "/poketimes/static/js/2.fdd10518.chunk.js",
+    "static/js/2.fdd10518.chunk.js.map": "/poketimes/static/js/2.fdd10518.chunk.js.map",
+    "static/js/3.69c56dad.chunk.js": "/poketimes/static/js/3.69c56dad.chunk.js",
+    "static/js/3.69c56dad.chunk.js.map": "/poketimes/static/js/3.69c56dad.chunk.js.map",
+    "index.html": "/poketimes/index.html",
+    "static/css/main.b2e0c3f3.chunk.css.map": "/poketimes/static/css/main.b2e0c3f3.chunk.css.map",
+    "static/js/2.fdd10518.chunk.js.LICENSE.txt": "/poketimes/static/js/2.fdd10518.chunk.js.LICENSE.txt",
+    "static/media/pokeball.05e5662d.png": "/poketimes/static/media/pokeball.05e5662d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.520f9593.js",
+    "static/js/runtime-main.a179cd75.js",
     "static/js/2.fdd10518.chunk.js",
     "static/css/main.b2e0c3f3.chunk.css",
     "static/js/main.dda684a7.chunk.js"
