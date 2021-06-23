@@ -16,7 +16,7 @@ class Posts extends Component{
                     <button className="btn green" onClick={this.handleClick}>Delete Post</button>
                 </div>
             </div>
-        ): ( <div className="center">Loading....</div>)
+        ): ( <div className="center">Loading....Go to Home</div>)
         return(
             <div className="container">
                 {post}
